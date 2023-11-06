@@ -1,4 +1,4 @@
-#part 1: target protein serach --> collect data set --> bioactivity data --> data processing --> focused data
+#part 1: target protein search --> collect data set --> bioactivity data --> data processing --> focused data
 #part 2: exploratory data analysis
 #part 3: Descriptor calculation
 #part 4: Modeling 
