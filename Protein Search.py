@@ -1,4 +1,4 @@
-#part 1: target protein search --> collect data set --> bioactivity data --> data processing --> focused data
+#target protein search --> collect data set --> bioactivity data --> data processing --> focused data
 
 #focused on coronavirus, specifically MERS-CoV
 import pandas as pd
