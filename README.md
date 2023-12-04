@@ -1,12 +1,10 @@
 # Drug-Discovery
 
-On-going personal project that applies machine learning to current professional experiences to explore vaccine candidates in a research setting.
+On-going personal project that combines professional experiences to searche online sources for specific protein targets to explore vaccine candidates in a research setting. I hope to be able to apply machine learning tools to develop this project further. 
 
-I hope to do the following: <br>
-  part 1: target protein serach --> collect data set --> bioactivity data --> data processing --> focused data <br>
-  part 2: exploratory data analysis <br>
-  part 3: Descriptor calculation <br>
-  part 4: Modeling <br>
-  part 5: Model Comparison <br>
-  part 6: performance comparison <br>
-  part 7: deploy model <br>
+In this project I do the following: <br>
+part 1: target a specific protein search <br> 
+part 2: collect the data set <br>
+part 3: collect bioactivity data <br>
+part 4: process the unique data <br>
+part 5: focus the data <br>
