@@ -2,11 +2,7 @@
 
 #focused on coronavirus, specifically MERS-CoV
 import pandas as pd
-import numpy as np
 from chembl_webresource_client.new_client import new_client
-from rdkit import Chem
-from rdkit.Chem import Descriptors, Lipinski
-
 
 #Part 1: Target Search --> collecting data sets from ChEMBL database
 target = new_client.target
